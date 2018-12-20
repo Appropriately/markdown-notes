@@ -74,7 +74,7 @@ Here is an example company and their goaADFSls.
   - A service provider (e.g. Google Apps, Salesforce, etc.) is configured to trust an IDP to authenticate users.
   - Uses public key encryption to establish a trust relationship.
 
-![SAML Diagram](./images/symantec/saml_diagram.png)
+![SAML Diagram](./images/saml_diagram.png)
 
 * WS-Trust: Specification that uses secuADFSre message mechanisms of WS-Security to facilitate trust relationships in diverse Web service environments.
   - Intended for the exchange of user identity information in `Microsoft .NET 3.0`
@@ -119,7 +119,7 @@ The **Application Catalog** has out-of-box connectors for applications and gener
 
 **Access Control** allows you to define access policies. They define access rules for applications based on user and device attributes, network location and Level of Assurance. Each application is assigned one access policy. Multi-factor authentication may be required when authentication needs to be stepped-up with a second factor such as a token.
 
-![Access Manager Breakdown](./images/symantec/access_manager_breakdown.png)
+![Access Manager Breakdown](./images/access_manager_breakdown.png)
 
 #### Architecture of VIP Access Manager
 
@@ -129,11 +129,11 @@ The _VIP Access Manager Bridge Appliance_ is a virtual appliance which bridges e
 
 ##### Hosted Deployment
 
-![Hosted VIP Deployment](./images/symantec/vip_deployment_hosted.png)
+![Hosted VIP Deployment](./images/vip_deployment_hosted.png)
 
 ##### On-Premises Deployment
 
-![On-premises VIP Deployment](./images/symantec/vip_on-premises_deployment.png)
+![On-premises VIP Deployment](./images/vip_on-premises_deployment.png)
 
 #### Installing Symantec VIP Access Manager
 
