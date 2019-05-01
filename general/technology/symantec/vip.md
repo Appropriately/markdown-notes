@@ -19,7 +19,7 @@
       - [On-Premises Deployment](#on-premises-deployment)
     - [Installing Symantec VIP Access Manager](#installing-symantec-vip-access-manager)
       - [Installing: Hosted Deployment](#installing-hosted-deployment)
-    - [Installing: On-Premises Deployment](#installing-on-premises-deployment)
+      - [Installing: On-Premises Deployment](#installing-on-premises-deployment)
     - [Keywords](#keywords)
   - [Enhance Security and Improve User Experience Through Single Sign-on](#enhance-security-and-improve-user-experience-through-single-sign-on)
     - [What is SSO about](#what-is-sso-about)
@@ -174,7 +174,7 @@ An extended guide can be found [here](https://help.symantec.com/home/VIP_EG_INST
 - Deploy identity bridges
 - Configure applications and identity services
 
-### Installing: On-Premises Deployment
+#### Installing: On-Premises Deployment
 
 - Prepare edge network
 - Deploy gateways
